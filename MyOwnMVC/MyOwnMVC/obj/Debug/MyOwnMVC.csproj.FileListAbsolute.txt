@@ -1,0 +1,52 @@
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\MyOwnMVC.dll.config
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\MyOwnMVC.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\MyOwnMVC.pdb
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\Antlr3.Runtime.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\Newtonsoft.Json.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.Helpers.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.Mvc.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.Optimization.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.Razor.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\WebGrease.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.Helpers.xml
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.Mvc.xml
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.Optimization.xml
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.Razor.xml
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.xml
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\Antlr3.Runtime.pdb
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\bin\Newtonsoft.Json.xml
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\obj\Debug\MyOwnMVC.csprojResolveAssemblyReference.cache
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\obj\Debug\MyOwnMVC.dll
+c:\users\ber7am\documents\visual studio 2013\Projects\MyOwnMVC\MyOwnMVC\obj\Debug\MyOwnMVC.pdb
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\MyOwnMVC.dll.config
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\MyOwnMVC.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\MyOwnMVC.pdb
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\Antlr3.Runtime.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\Newtonsoft.Json.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.Helpers.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.Mvc.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.Optimization.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.Razor.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\WebGrease.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.Helpers.xml
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.Mvc.xml
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.Optimization.xml
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.Razor.xml
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.xml
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\bin\Newtonsoft.Json.xml
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\obj\Debug\MyOwnMVC.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\obj\Debug\MyOwnMVC.dll
+C:\Users\Christian\Documents\GitHub\Backster\MyOwnMVC\MyOwnMVC\obj\Debug\MyOwnMVC.pdb
